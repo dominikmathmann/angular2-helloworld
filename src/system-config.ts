@@ -29,6 +29,8 @@ const barrels: string[] = [
   // App specific barrels.
   'app',
   'app/shared',
+  'app/+home',
+  'app/shared/fadein-container',
   /** @cli-barrel */
 ];
 

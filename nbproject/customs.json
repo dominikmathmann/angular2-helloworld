@@ -1,0 +1,10 @@
+{
+    "elements": {
+        "router-outlet": {}
+    },
+    "attributes": {
+        "bind-routerLink": {
+            "context": "a"
+        }
+    }
+}
